@@ -15,6 +15,6 @@
 I would like to thank our college Bharati Vidyapeeth's College of Engineering and Brainmentors Pvt. Ltd. for providing us with the opportunity to enhance our skills through this 4-week long training in Full Stack Web Development
 
   
-<h5>User and UserAdmin Password and userid</h5>
+<h3>User and UserAdmin Password and userid</h3>
 <p> admin - aavaig, password - 123456789</p>
 <p> user- ram, password - 123456789</p>
